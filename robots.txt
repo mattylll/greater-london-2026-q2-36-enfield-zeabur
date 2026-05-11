@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greater-london-2026-q2-36-enfield-zeabur.zeabur.app/sitemap.xml
+Sitemap: https://greater-london-2026-q2-36-enfi.zeabur.app/sitemap.xml
